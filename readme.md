@@ -212,7 +212,7 @@ MIT License - see LICENSE file for details.
 
 ## Author
 
-Isaac Eyesack - [@i-eyesack](https://github.com/i-eyesack)
+Isaac Eyesack - [@sei-renae](https://github.com/sei-renae)
 
 *"The sky is not the limit, it's just the beginning."*
 
